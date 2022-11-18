@@ -15,7 +15,7 @@ export default function LoggedOut() {
         </TabList>
         <TabPanels>
           <TabPanel>
-            <LoginForm />
+            <LoginForm /> 
           </TabPanel>
           <TabPanel>
             <SignupForm />
